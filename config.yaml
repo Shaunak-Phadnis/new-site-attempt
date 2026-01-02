@@ -18,14 +18,14 @@ menu:
     - name: Home
       url: "/"
       weight: 1
-    - name: About
-      url: "/about/"
-      weight: 2
     - name: Output
       url: "/output/"
-      weight: 3
+      weight: 2
     - name: Teaching
       url: "/teaching/"
+      weight: 3
+    - name: About
+      url: "/about/"
       weight: 4
 
    # - name: Subscribe
