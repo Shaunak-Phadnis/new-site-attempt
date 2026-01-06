@@ -11,11 +11,11 @@ I am a 3rd year PhD student at the [Department of Linguistics at UMass Amherst](
 Broadly, I am interested in understanding how conversations work - how speakers navigate and communicate implicit meaning through their responses in a discourse.
 More specifically, I am interested in:
  - Representation of not-at-issue meaning and structure of the context and common ground. 
- - How strategies of rejection, denial, negation are encoded across langauges and what the building blocks for them are.
+ - How strategies of rejection, denial, and disagreement are encoded across langauges and what the building blocks for them are.
  - Off-record communication and signaling strategies (Insinuations, Dogwhistles, Two-tracked conversations)
  - Discourse particles in South Asian languages and discursive strategies they conventionalize.
 
-Thus, this grounds my research in Formal Pragmatics and its interface with Semantics on one hand and Social meaning/Philosophy of Language on the other. Apart from this, I also like thinking about Syntax, specifically Agreement in Indo-Aryan languages. I have a latent fascination with representation of event structures in cognition.
+Thus, this grounds my research in Formal Pragmatics and its interface with Semantics on one hand and Social meaning/Philosophy of Language on the other. Apart from this, I also like thinking about Syntax, specifically Agreement and person system in Hindi/Marathi. I have a latent fascination with representation of event structures in cognition.
 
 **Email:** sphadnis[at]umass[dot]edu
 
