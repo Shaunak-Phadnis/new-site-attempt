@@ -6,7 +6,7 @@ title: Home
  
 <img src="/images/profile.jpeg" width="250" style="float:right; margin: 0 0 1rem 1rem;">
 
-I am a 3rd year PhD student at the [Department of Linguistics at UMass Amherst](https://www.umass.edu/linguistics/). Before coming to UMass I worked as a Conversational UX designer at a start-up in India. 
+I am a 3rd year PhD student at the [Department of Linguistics at UMass Amherst](https://www.umass.edu/linguistics/). I have an MA in Linguistics from English and Foreign Languages University, Hyderabad and a BSc in Mathematics from Fergusson College, Pune. Before coming to UMass I briefly worked as a Conversational UX designer at an AI start-up in India. 
 
 Broadly, I am interested in understanding how conversations work - how speakers navigate and communicate implicit meaning through their responses in a discourse.
 More specifically, I am interested in:
@@ -27,7 +27,7 @@ I have a latent fascination with representation of event structures in cognition
 ## News
 
 - 02/2026: I will be giving a talk at PLC50.
-- 12/22/2025: I presented my paper about puzzling Marathi discourse particle _bara_ at [DiPSAL](https://sites.google.com/view/dipsal/home)@IIT-Delhi
-- 11/22/2025: I presented my work on English slang *lowkey* at SNEWS held at UMass. 
-- 06/09/2025: I defended my first GP titled "Negative meaning without negation: case of _bara_ in Marathi" advised by Rajesh Bhatt and María Biezma.
-- 04/12/2025: I was at FASAL15 held at UT-Austin. I presented my first GP on Marathi discourse particle *bara*.
+- 12/22/2025: I presented my paper about puzzling Marathi discourse particle _bərə_ at [DiPSAL](https://sites.google.com/view/dipsal/home)@IIT-Delhi.
+- 11/22/2025: I presented my work on the English slang *lowkey* at SNEWS held at UMass. 
+- 06/09/2025: I defended my first GP titled "Negative meaning without negation: case of _bərə_ in Marathi" advised by Rajesh Bhatt and María Biezma.
+- 04/12/2025: I was at FASAL15 held at UT-Austin. I presented my first GP on Marathi discourse particle *bərə*.
