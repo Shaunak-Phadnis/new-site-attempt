@@ -3,6 +3,7 @@ body {
   margin: auto;
   padding: 1em;
   line-height: 1.5;
+  background-color: f8f9a4;  /* change background color here */
 }
 
 /* header and footer areas */
